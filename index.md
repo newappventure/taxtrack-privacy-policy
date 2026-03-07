@@ -51,4 +51,4 @@ We may update this policy from time to time. Material changes will be reflected 
 
 ## 11. Contact
 Support and privacy requests:
-- https://github.com/rideReportApp/taxtrax-privacy-policy/issues
+- https://github.com/newappventure/taxtrax-privacy-policy/issues

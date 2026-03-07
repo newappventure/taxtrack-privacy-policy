@@ -1,7 +1,7 @@
 # TaxTrax Support
 
 For help with TaxTrax:
-- Open an issue: https://github.com/rideReportApp/taxtrax-privacy-policy/issues
+- Open an issue: https://github.com/newappventure/taxtrax-privacy-policy/issues
 
 When reporting a problem, include:
 - iOS version
