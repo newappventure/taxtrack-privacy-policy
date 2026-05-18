@@ -1,7 +1,7 @@
-# TaxTrax Support
+# TaxTrack Support
 
-For help with TaxTrax:
-- Open an issue: https://github.com/newappventure/taxtrax-privacy-policy/issues
+For help with TaxTrack:
+- Open an issue: https://github.com/newappventure/taxtrack-privacy-policy/issues
 
 When reporting a problem, include:
 - iOS version
@@ -11,6 +11,6 @@ When reporting a problem, include:
 - Screenshot (if relevant)
 
 ## Common help topics
-- Enable location permission: iOS Settings > TaxTrax > Location > Always
+- Enable location permission: iOS Settings > TaxTrack > Location > Always
 - Re-enable denied permission: iOS Settings > Privacy & Security > Location Services
 - Delete all data: Settings tab > Data > Delete All Data
